@@ -1,0 +1,20 @@
+{
+  "name": "thynqen",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/thynqen/thynqen#readme",
+  "bugs": {
+    "url": "https://github.com/thynqen/thynqen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thynqen/thynqen.git"
+  },
+  "license": "ISC",
+  "author": "eek",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
